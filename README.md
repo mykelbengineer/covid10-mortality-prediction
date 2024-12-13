@@ -34,20 +34,21 @@ Analysis based on Synthea's COVID-19 dataset including:
 - Comprehensive medical notes
 
 ## Project Structure
+
 ├── README.md
 └── src
-├── data
-│   └── final_df.csv          # Preprocessed dataset
-├── documents
-│   ├── COVER_PAGE.pdf
-│   └── Hybrid Feature Analysis for COVID-19 Mortality Prediction.[docx/pdf]
-├── notebooks
-│   ├── COVID_Project.ipynb   # Data preprocessing notebook
-│   ├── COVID_NN.ipynb        # Numerical analysis notebook
-│   └── Covid_LLM.ipynb       # Text-based analysis notebook
-└── presentation
-├── HYBRID FEATURE ANALYSIS FOR COVID-19 MORTALITY PREDICTION.[pptx/pdf]
-└── hybrid_feature_analysis_final_project.mp4
+    ├── data
+    │   └── final_df.csv          # Preprocessed dataset
+    ├── documents
+    │   ├── COVER_PAGE.pdf
+    │   └── Hybrid Feature Analysis for COVID-19 Mortality Prediction.[docx/pdf]
+    ├── notebooks
+    │   ├── COVID_Project.ipynb   # Data preprocessing notebook
+    │   ├── COVID_NN.ipynb        # Numerical analysis notebook
+    │   └── Covid_LLM.ipynb       # Text-based analysis notebook
+    └── presentation
+        ├── HYBRID FEATURE ANALYSIS FOR COVID-19 MORTALITY PREDICTION.[pptx/pdf]
+        └── hybrid_feature_analysis_final_project.mp4
 
 
 ## Getting Started
